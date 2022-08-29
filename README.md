@@ -1,6 +1,11 @@
+# This package is deprecated
+Heads up, I forked this to use in typechain generations, but ended up using [ethcall](https://github.com/Destiner/ethcall), it has everything you need for handling multicalls.
+
+If you're interested in having advanced typings for multicalls, checkout [typechain-ethers-multicall](https://github.com/HOVOH/TypeChain/tree/master/packages/target-ethers-multicall)
+
 # ethers-multicall
 
-Make multiple Ethereum network requests in a single HTTP query. [ethcall](https://github.com/Destiner/ethcall) for ethers v5.
+Make multiple Ethereum network requests in a single HTTP query. 
 This is a fork of [cavanmflynn/ethers-multicall](https://github.com/cavanmflynn/ethers-multicall) to add support for advanced typed multicalls.
 
 ## This package is used in 
